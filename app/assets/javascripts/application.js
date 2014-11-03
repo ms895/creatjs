@@ -14,3 +14,6 @@
 //= require jquery_ujs
 //= require createjs-2013.12.12.min
 //= require_tree .
+
+var bd = new ButterflyDance;
+bd.init();
